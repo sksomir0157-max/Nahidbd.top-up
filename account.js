@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NAHIDYTTOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name =Nahid
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -16,10 +16,10 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = https://youtube.com/@clashofclans2025-i7l?si=ofGFEiz1HR9utdoi
+var youtube_channel_link=https://youtube.com/@clashofclans2025-i7l?si=ofGFEiz1HR9utdoi
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `💎 কম দামে প্রিমিয়াম টপ-আপ ⚡ সুপার ফাস্ট ডেলিভারি 🛡️ বিশ্বস্ত সার্ভিস, 
+var notification_text = কম দামে প্রিমিয়াম টপ-আপ ⚡ সুপার ফাস্ট ডেলিভারি 🛡️ বিশ্বস্ত সার্ভিস, 
 নির্ভরযোগ্য লেনদেন 🔥 আপনার গেমিংয়ের সব টপ-আপ এক জায়গায়!"
